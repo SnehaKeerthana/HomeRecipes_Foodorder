@@ -1,0 +1,66 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    border: 2px solid rgb(23, 20, 20);
+    background-image: url("https://as2.ftcdn.net/v2/jpg/04/74/16/59/1000_F_474165902_Npb8hleK0EFSViPzL060Df8Ivf7ZFC7n.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#part1{
+    height: 10vh;
+    width: 30vw;
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 20px;
+    margin: 80px 0px 0px 70px; 
+    
+}
+aside{
+    height: 8vh;
+    width: 9vw;
+    border: 2px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 15px;
+    text-shadow: none;
+    box-shadow: 0 0 20px #0a0a0a,0 0 40px #0a0b0b;
+}
+#part2{
+    height: 50vh;
+    width: 700px;
+    border: 2px solid rgb(24, 24, 24);
+    position: relative;
+    left: 350px;
+    top: 90px;
+    font-size: 40px;
+    color: white;
+   display: flex;
+   /* justify-content: center;
+   align-items: center; */
+   flex-direction: column;
+   /* text-shadow:0 0 20px white,0 0 40px white; */
+   /* background-image: url("https://img.freepik.com/premium-photo/top-view-classic-spaghetti-pasta-with-tomato-sauce-dark-plate-copy-space_67155-5968.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 8px; */
+
+}
+p{
+    font-size: 25px;
+    margin: 10px 0px 0px 30px;
+    text-shadow: none;
+}
+.part3{
+    color: white;
+}
+

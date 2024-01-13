@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.form-block{
+    height: 100vh;
+    width: 100vw;
+    border: 2px solid rgb(8, 9, 8);
+    background-image: url("https://images.pexels.com/photos/941869/pexels-photo-941869.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.place{
+height: 60vh;
+width: 25vw;
+border: 2px solid  black;
+background-color: whitesmoke;
+margin: 50px 0px 0px 600px;
+padding: 20px;
+display: flex;
+flex-direction: column;
+background-color: transparent;
+color: white;
+filter: blur(2%);
+border-radius: 15px;
+font-size: 20px;
+
+}
+input{
+height: 30px;
+width: 20vw;
+background-color: transparent;
+color: white;
+font-size: 20px;
+}
+footer{
+    height: 9vh;
+    width: 20vw;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    height: 6vh;
+    width: 9vw;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+}
+h1{
+  margin: 40px 0px 0px 650px;
+ /* text-decoration-style: dotted;
+ text-decoration-thickness: 2px;
+ text-decoration-color: aliceblue; */
+  color: white;
+}

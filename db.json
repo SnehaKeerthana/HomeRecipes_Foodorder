@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "fname": "biryani",
+      "fprice": "2000",
+      "fqty": "5",
+      "id": 4
+    },
+    {
+      "fprice": "200",
+      "fname": "alucurry",
+      "fqty": "5",
+      "id": 5
+    },
+    {
+      "fprice": "50",
+      "fname": "curd rice",
+      "fqty": "2",
+      "id": 6
+    },
+    {
+      "fprice": "20",
+      "fname": "milk",
+      "fqty": "2",
+      "id": 7
+    },
+    {
+      "fprice": "60",
+      "fname": "pizza",
+      "fqty": "5",
+      "id": 8
+    },
+    {
+      "fprice": "60",
+      "fname": "drink",
+      "fqty": "5",
+      "id": 9
+    }
+  ]
+}
